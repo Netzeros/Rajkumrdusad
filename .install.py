@@ -127,4 +127,4 @@ def logo():
 \033[1;33m  [ + ] \033[1;32mUse it at your own risk.
 \033[1;33m  [ + ] \033[1;32mNo warranty.
 \033[1;33m  [ + ] \033[1;32mUse it for legal purposes only.
-\033[1;33m  [ + ]
+\033[1;33m  [ + ]\033[1;m
